@@ -1,4 +1,4 @@
-# Názov projektu
+# Študentský Bazár
 
 Matúš Meško
 
